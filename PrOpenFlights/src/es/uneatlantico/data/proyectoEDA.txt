@@ -1,0 +1,10 @@
+
+
+NODO
+
+UI
+-menor numero (ruta optima) de otro color
+-imagen
+-abajo en todo el footer, dos combobox(origen,destino)
+-seleccion directo o escala
+-boton derecha search
